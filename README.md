@@ -2,6 +2,7 @@ This is the Home Page of the Cryptoverse App:
 ![Скриншот 17-06-2023 222519](https://github.com/StanislavPliev/React-Crypto-App/assets/123414192/ee3ed8ef-2905-4c5c-b017-62cc1863cd57)
 
 As you can see, there's some info about top 10 cryptocurrencies in the world. Plus if you click on one of them you can check their details, like this:
+(PRICE CHART ISN'T WORKING FOR SOME REASON 🤔)
 ![Скриншот 17-06-2023 222724](https://github.com/StanislavPliev/React-Crypto-App/assets/123414192/3278f10c-5177-4e83-b191-531d2d6c936e)
 ![Скриншот 17-06-2023 222737](https://github.com/StanislavPliev/React-Crypto-App/assets/123414192/0e437483-6f45-4c11-b87a-1748fe067815)
 ![Скриншот 17-06-2023 222812](https://github.com/StanislavPliev/React-Crypto-App/assets/123414192/f99ee921-bb9f-4aef-87ab-9824773e1f25)
