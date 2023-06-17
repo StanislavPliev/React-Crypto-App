@@ -1,70 +1,13 @@
-# Getting Started with Create React App
+This is the Home Page of the Cryptoverse App:
+![Скриншот 17-06-2023 222519](https://github.com/StanislavPliev/React-Crypto-App/assets/123414192/ee3ed8ef-2905-4c5c-b017-62cc1863cd57)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+As you can see, there's some info about top 10 cryptocurrencies in the world. Plus if you click on one of them you can check their details, like this:
+![Скриншот 17-06-2023 222724](https://github.com/StanislavPliev/React-Crypto-App/assets/123414192/3278f10c-5177-4e83-b191-531d2d6c936e)
+![Скриншот 17-06-2023 222737](https://github.com/StanislavPliev/React-Crypto-App/assets/123414192/0e437483-6f45-4c11-b87a-1748fe067815)
+![Скриншот 17-06-2023 222812](https://github.com/StanislavPliev/React-Crypto-App/assets/123414192/f99ee921-bb9f-4aef-87ab-9824773e1f25)
+You can go even further by clicking on the links related to the selected cryptocurrency (watch screenshot on the line 7)
+And you can check the list of the 100 cryptocurrencies by clicking "Cryptocurrencies" on the sidebar or "Show more" on the right side of the top 10 cryptocurrencies at Home page. On the Cryptocurrencies page you can search by them, so that only searched cryptocurrencies will display at the page
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Also you can browse some news around crypto-world and more:
+![Скриншот 17-06-2023 222701](https://github.com/StanislavPliev/React-Crypto-App/assets/123414192/451dabca-059c-4389-aa29-10db41373bc1)
+You can select which news you want to read (upper left select input). You can also see the author of the news and when it was published. Then you can click on the news and you'll be redirected to the page, where the news was originally placed.
